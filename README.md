@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sabih Qureshi</h1>
 <p align="center">
-  <img src="assets/HexMan.png" alt="Avatar" max-width="250px"  />
+  <img src="assets/HexMan.png" alt="Avatar" width="280px"  />
 </p>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
