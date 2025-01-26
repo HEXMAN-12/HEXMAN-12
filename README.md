@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sabih Qureshi</h1>
 <p align="center">
-  <img src="assets/HexMan.png" alt="Avatar" width="280px"  />
+  <img src="assets/HexMan.png" alt="Avatar" width="220px"  />
 </p>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -33,7 +33,7 @@
 </p> -->
 
 <p align="center">
- <a href="https://sabihq.site" target="blank">
+ <a href="https://sabihqureshi.site" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sabihq.site" />
  </a>
  <a href="https://www.linkedin.com/in/sabih-qureshi-954b2b26b/" target="_blank">
