@@ -7,7 +7,7 @@
   <img src="assets/HexMan.png" alt="Avatar" width="220px"  />
 </p>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Cyber Security Engineer from Pakistan</h3>
 <p>Cyber Security Student at Air Univeristy | CTF Player </p>
 
 ## Connect With Me
