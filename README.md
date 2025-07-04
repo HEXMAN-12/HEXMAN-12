@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p>Cyber Security Student at Air Univeristy | CTF Player | Go Green Fly Higher 🥦 </p>
+<p>Cyber Security Student at Air Univeristy | CTF Player </p>
 
 ## Connect With Me
 
